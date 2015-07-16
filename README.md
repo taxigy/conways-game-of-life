@@ -4,5 +4,5 @@ pretty useless repo, though.
 
 ## Todo
 
-[ ] Feed a file with initial grid as a parameter.
-[ ] Cool CLI view with colors and static positioning.
+ [ ] Feed a file with initial grid as a parameter.
+ [ ] Cool CLI view with colors and static positioning.
